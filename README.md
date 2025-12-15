@@ -1,27 +1,27 @@
 # Muhammad Wamiq Abbasi
 
-Software Developer focused on building and maintaining production code that supports business-critical workflows. I currently work within Capital Project Planning & Delivery (CPPD) at the Government of Manitoba, where I design, implement, and refine internal software tools used by teams responsible for planning and delivering multi-million-dollar public infrastructure projects.
+Software Developer | Winnipeg, MB
 
-My work focuses on writing and maintaining logic-driven code, refactoring existing systems, and resolving reliability and integration issues in production environments. Within Capital Project Planning & Delivery (CPPD) at the Government of Manitoba, I contribute internal software solutions that support complex operational workflows used by teams delivering large-scale public infrastructure projects.
+I’m a software developer currently working with Capital Project Planning & Delivery (CPPD) at the Government of Manitoba, contributing to internal, production systems that support teams planning and delivering large-scale public infrastructure projects. My work focuses on writing clear, maintainable code, improving existing systems, and resolving practical issues that arise in the day-to-day use of software by non-technical teams.
 
-In parallel with my professional role, I actively build and maintain software projects that reflect product-oriented development, including REST API integration, asynchronous processing, state management, structured error handling, and modular application design. These projects help reinforce the same problem-solving and system-design skills required in service-based, SaaS environments.
+Alongside my professional role, I build personal projects to strengthen my understanding of application structure, API integration, asynchronous logic, and state management. I’m especially interested in software that supports business processes and data-driven workflows.
 
 ---
 
 ## Selected Projects
 ### Portfolio Website  
 **JavaScript, HTML, CSS**  
-A fully responsive, multi-page personal website built with modular UI components and deployed via Netlify.  
+A fully responsive, multi-page personal website built with modular UI components and deployed via Netlify, with a focus on layout structure and reusable components.
 Live: https://wamiq-portfolio.netlify.app/
 
 ### Weather Application  
 **JavaScript, REST APIs, Asynchronous Programming**  
-A real-time weather application integrating the OpenWeather API, featuring structured asynchronous logic, error handling, and modular rendering.  
+A real-time weather application integrating the OpenWeather API, emphasizing asynchronous data handling, error states, and clean separation of concerns.  
 Live: https://wamiq-weather.netlify.app/
 
 ### Task Manager Application  
 **JavaScript, Local Storage, DOM Manipulation**  
-A client-side task management system supporting full CRUD operations with persistent state and optimized DOM updates.  
+A client-side task management system supporting full CRUD operations with persistent state, built to reinforce state management and DOM performance considerations.
 Live: https://task-manager-wamiq.netlify.app/
 
 ---
