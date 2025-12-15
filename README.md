@@ -6,23 +6,25 @@ I’m a software developer currently working with Capital Project Planning & Del
 
 Alongside my professional role, I build personal projects to strengthen my understanding of application structure, API integration, asynchronous logic, and state management. I’m especially interested in software that supports business processes and data-driven workflows.
 
+The pinned repositories below represent my current body of hands-on work. They focus on building maintainable client-side applications, integrating external APIs, and managing application state and error handling in real usage scenarios. Each project was built with an emphasis on clear structure, refactoring, and practical problem-solving rather than experimentation or demos. These projects best reflect how I approach business-oriented software and learning within larger, evolving codebases.
+
 ---
 
 ## Selected Projects
 ### Portfolio Website  
 **JavaScript, HTML, CSS**  
 A fully responsive, multi-page personal website built with modular UI components and deployed via Netlify, with a focus on layout structure and reusable components.
-Live: https://wamiq-portfolio.netlify.app/
+**Live: https://wamiq-portfolio.netlify.app/**
 
 ### Weather Application  
 **JavaScript, REST APIs, Asynchronous Programming**  
 A real-time weather application integrating the OpenWeather API, emphasizing asynchronous data handling, error states, and clean separation of concerns.  
-Live: https://wamiq-weather.netlify.app/
+**Live: https://wamiq-weather.netlify.app/**
 
 ### Task Manager Application  
 **JavaScript, Local Storage, DOM Manipulation**  
-A client-side task management system supporting full CRUD operations with persistent state, built to reinforce state management and DOM performance considerations.
-Live: https://task-manager-wamiq.netlify.app/
+A client-side task management system supporting full CRUD operations with persistent state, built with an emphasis on predictable state updates and DOM performance considerations.
+**Live: https://task-manager-wamiq.netlify.app/**
 
 ---
 
